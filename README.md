@@ -24,3 +24,9 @@ Cornell Movie-Dialogs Corpus
 
 lyrics from PTT forum  
 [https://www.ptt.cc/bbs/lyrics/index.html](https://www.ptt.cc/bbs/lyrics/index.html)
+
+
+## 4. twitter_en
+
+corpus scrap from twitter, where odd lines are tweet and even lines are corresponding responded tweets.   
+actually you could scrape your own with my [twitter scraper repository](https://github.com/Marsan-Ma/twitter_scraper)
